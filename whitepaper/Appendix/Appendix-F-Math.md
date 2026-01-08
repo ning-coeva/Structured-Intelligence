@@ -7,7 +7,7 @@ SEF regulates reasoning depth, domain activation, and cognitive stability. We mo
 ```math
 E_s(t) = \alpha C_t + \beta R_t + \gamma D_t + \delta S_t + \lambda L_t
 
-Where:
+## Where:
 
 𝛼
 ,
